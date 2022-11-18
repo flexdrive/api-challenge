@@ -17,7 +17,7 @@
     "react-redux": "^6.0.0",
     "react-router-dom": "^4.3.1",
     "react-router-redux": "^4.0.8",
-    "react-scripts": "^2.1.1",
+    "react-scripts": "^5.0.1",
     "redux": "^4.0.1",
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0",
@@ -43,7 +43,7 @@
   "devDependencies": {
     "chalk": "^2.4.1",
     "path": "^0.12.7",
-    "react-dev-utils": "^6.1.1"
+    "react-dev-utils": "^12.0.1"
   },
   "proxy": "http://localhost:8000"
 }
